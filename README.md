@@ -94,6 +94,6 @@ The live application is available at:  `https://flask-app-03-eycabug5g9frdadf.ca
 
 ## Contact
 
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please contact `bibrata45@gmail.com`
 
 ---
